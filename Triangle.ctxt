@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=center\ radius\ color
+comment0.target=Triangle(java.awt.geom.Point2D.Double,\ double,\ java.awt.Color)
+comment1.params=point
+comment1.target=boolean\ isInside(java.awt.geom.Point2D.Double)
+comment2.params=m8\ filled
+comment2.target=void\ draw(java.awt.Graphics2D,\ boolean)
+numComments=3
